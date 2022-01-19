@@ -9,10 +9,6 @@ public class Main {
     String[] myList2 = new String[10];
 
     public static void main(String[] args) {
-    Grocery dokan =new Grocery();
-    dokan.name = "dokan1";
-    System.out.println(dokan.name);
-    }
-    public void doSomething(){
+
     }
 }
